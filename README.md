@@ -27,7 +27,7 @@ npm install
 Tests:
 
 ```
-npm run test
+npm run test - //Comment
 ```
 
 Run server (defaults to localhost:3000):
